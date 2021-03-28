@@ -15636,6 +15636,11 @@
       "FilePath": "/home/joaquin/Documentos/ProyectosPersonales/api_aspnet_core/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/joaquin/Documentos/ProyectosPersonales/api_aspnet_core/Views/School/Index.cshtml",
+      "TargetPath": "Views\\School\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
